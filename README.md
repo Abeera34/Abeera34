@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithms , web development**
 
-- 📫 How to reach me **abeeramalakar2002@gmail@gmail.com**
+- 📫 How to reach me **abeeramalakar2002@gmail.com**
 
 - ⚡ Fun fact **SLEO they call me**
 
